@@ -1,3 +1,5 @@
+package lessons;
+
 public class MinPerimeterRectangle {
     public static int solution(int N) {
         int minPerimeter = Integer.MAX_VALUE;

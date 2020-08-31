@@ -1,3 +1,5 @@
+package lessons;
+
 public class CountFactors {
     public static int solution(int N) {
         int counter = 0;

@@ -1,3 +1,5 @@
+package lessons;
+
 public class CyclicRotation {
     public static int[] solution(int[] A, int K) {
         if (A.length == 0)

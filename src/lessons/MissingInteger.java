@@ -1,3 +1,5 @@
+package lessons;
+
 import java.util.Arrays;
 
 public class MissingInteger {

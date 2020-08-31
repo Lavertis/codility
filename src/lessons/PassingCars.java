@@ -1,3 +1,5 @@
+package lessons;
+
 public class PassingCars {
     public static int solution(int[] A) {
         long sum = 0;

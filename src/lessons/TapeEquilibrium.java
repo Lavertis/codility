@@ -1,3 +1,5 @@
+package lessons;
+
 public class TapeEquilibrium {
     public static int solution(int[] A) {
         if (A.length == 2) return Math.abs(A[0] - A[1]);

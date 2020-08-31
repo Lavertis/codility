@@ -1,3 +1,5 @@
+package lessons;
+
 public class CountDiv {
     public static int solution(int A, int B, int K) {
         if (A == 0 && B == 0) return 1;
